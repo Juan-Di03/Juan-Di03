@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./avatar.jpeg" width="160" height="160" alt="Avatar de JuanDi" />
+  <img src="./Avatar.jpeg" width="160" height="160" alt="Avatar de JuanDi" />
   
 # ¡Hola! Soy Juan Diego (JuanDi) 👋
 ### Desarrollador de Software en formación | Full-Stack (Java & React) 
