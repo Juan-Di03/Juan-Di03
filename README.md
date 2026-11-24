@@ -1,7 +1,10 @@
 <div align="center">
 
-  <img src="./A
-  vatar.jpeg" width="160" height="160" alt="Avatar de JuanDi" />
+<<<<<<< HEAD
+  <img src="./Avatar.png" width="160" height="160" alt="Avatar de JuanDi" />
+=======
+  <img src="./Avatar.jpeg" width="160" height="160" alt="Avatar de JuanDi" />
+>>>>>>> 92a8948bfe5d665262cca5533c41913a267cc335
   
 # ¡Hola! Soy Juan Diego (JuanDi) 👋
 ### Desarrollador de Software en formación | Full-Stack (Java & React) 
